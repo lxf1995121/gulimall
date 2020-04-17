@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: 1e98ebdf-ef5b-4721-8f8d-a0450c39be74
